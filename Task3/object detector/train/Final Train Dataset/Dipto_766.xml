@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Dipto 01</folder>
+	<filename>Dipto_766.jpg</filename>
+	<path>C:\Users\ASUS\Desktop\Dipto 01\Dipto_766.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>352</width>
+		<height>456</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>truck</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>143</xmin>
+			<ymin>278</ymin>
+			<xmax>195</xmax>
+			<ymax>343</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>auto rickshaw</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>216</xmin>
+			<ymin>311</ymin>
+			<xmax>232</xmax>
+			<ymax>332</ymax>
+		</bndbox>
+	</object>
+</annotation>

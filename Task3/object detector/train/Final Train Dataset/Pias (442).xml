@@ -1,0 +1,50 @@
+<annotation>
+	<folder>New folder (2)</folder>
+	<filename>Pias (442).jpg</filename>
+	<path>C:\Users\Mohammad Navid\Desktop\New folder (2)\Pias (442).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>truck</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>655</xmin>
+			<ymin>59</ymin>
+			<xmax>1280</xmax>
+			<ymax>661</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bus</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>499</xmin>
+			<ymin>299</ymin>
+			<xmax>622</xmax>
+			<ymax>464</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>three wheelers (CNG)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>427</xmin>
+			<ymin>391</ymin>
+			<xmax>487</xmax>
+			<ymax>453</ymax>
+		</bndbox>
+	</object>
+</annotation>

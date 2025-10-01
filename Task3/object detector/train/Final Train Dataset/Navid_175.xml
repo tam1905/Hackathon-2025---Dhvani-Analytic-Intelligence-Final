@@ -1,0 +1,50 @@
+<annotation>
+	<folder>New folder</folder>
+	<filename>Navid_175.jpg</filename>
+	<path>C:\Users\Mohammad Navid\Desktop\New folder\New folder\Navid_175.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1274</width>
+		<height>615</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pickup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>310</xmin>
+			<ymin>250</ymin>
+			<xmax>379</xmax>
+			<ymax>344</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>truck</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>389</xmin>
+			<ymin>267</ymin>
+			<xmax>458</xmax>
+			<ymax>341</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>pickup</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>708</xmin>
+			<ymin>287</ymin>
+			<xmax>1274</xmax>
+			<ymax>615</ymax>
+		</bndbox>
+	</object>
+</annotation>

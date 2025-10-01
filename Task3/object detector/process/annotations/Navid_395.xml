@@ -1,0 +1,50 @@
+<annotation>
+	<folder>New folder (2)</folder>
+	<filename>Navid_395.JPG</filename>
+	<path>C:\Users\Mohammad Navid\Desktop\New folder (2)\Navid_395.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3024</width>
+		<height>4032</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1733</xmin>
+			<ymin>1816</ymin>
+			<xmax>2564</xmax>
+			<ymax>2516</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1346</xmin>
+			<ymin>1841</ymin>
+			<xmax>1802</xmax>
+			<ymax>2203</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>van</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1271</xmin>
+			<ymin>1741</ymin>
+			<xmax>1433</xmax>
+			<ymax>2085</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,236 @@
+{
+  "timestamp": "2025-10-01T21:30:22.447720",
+  "total_images": 5,
+  "processed_successfully": 5,
+  "failed": 0,
+  "failed_images": [],
+  "detection_summary": {
+    "total_rings": 10,
+    "defective_rings": 4,
+    "pass_rings": 6
+  },
+  "results": [
+    {
+      "filename": "defect1.png",
+      "timestamp": "2025-10-01T21:30:22.117059",
+      "image_shape": [
+        1100,
+        1130,
+        3
+      ],
+      "rings_detected": 2,
+      "results": [
+        {
+          "ring_id": 0,
+          "status": "PASS",
+          "circularity": 0.8976843669981173,
+          "center": {
+            "x": 564,
+            "y": 549
+          },
+          "radius": 542,
+          "defects": []
+        },
+        {
+          "ring_id": 2,
+          "status": "DEFECT",
+          "circularity": 0.8831872570817233,
+          "center": {
+            "x": 564,
+            "y": 549
+          },
+          "radius": 218,
+          "defects": [
+            {
+              "type": "convexity_defect",
+              "depth": 12.36328125,
+              "location": {
+                "x": 375,
+                "y": 474
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filename": "defect2.png",
+      "timestamp": "2025-10-01T21:30:22.201736",
+      "image_shape": [
+        1100,
+        1130,
+        3
+      ],
+      "rings_detected": 2,
+      "results": [
+        {
+          "ring_id": 0,
+          "status": "DEFECT",
+          "circularity": 0.8921786267965566,
+          "center": {
+            "x": 564,
+            "y": 549
+          },
+          "radius": 542,
+          "defects": [
+            {
+              "type": "convexity_defect",
+              "depth": 14.26953125,
+              "location": {
+                "x": 107,
+                "y": 293
+              }
+            }
+          ]
+        },
+        {
+          "ring_id": 1,
+          "status": "PASS",
+          "circularity": 0.8986659082842885,
+          "center": {
+            "x": 564,
+            "y": 549
+          },
+          "radius": 218,
+          "defects": []
+        }
+      ]
+    },
+    {
+      "filename": "defect3.png",
+      "timestamp": "2025-10-01T21:30:22.286103",
+      "image_shape": [
+        1100,
+        1130,
+        3
+      ],
+      "rings_detected": 2,
+      "results": [
+        {
+          "ring_id": 1,
+          "status": "PASS",
+          "circularity": 0.8986941016587042,
+          "center": {
+            "x": 564,
+            "y": 549
+          },
+          "radius": 542,
+          "defects": []
+        },
+        {
+          "ring_id": 2,
+          "status": "DEFECT",
+          "circularity": 0.871820077242889,
+          "center": {
+            "x": 559,
+            "y": 538
+          },
+          "radius": 227,
+          "defects": [
+            {
+              "type": "convexity_defect",
+              "depth": 10.79296875,
+              "location": {
+                "x": 374,
+                "y": 446
+              }
+            },
+            {
+              "type": "convexity_defect",
+              "depth": 14.22265625,
+              "location": {
+                "x": 397,
+                "y": 413
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filename": "defect4.png",
+      "timestamp": "2025-10-01T21:30:22.353634",
+      "image_shape": [
+        1100,
+        1130,
+        3
+      ],
+      "rings_detected": 2,
+      "results": [
+        {
+          "ring_id": 0,
+          "status": "DEFECT",
+          "circularity": 0.8875454295754541,
+          "center": {
+            "x": 564,
+            "y": 534
+          },
+          "radius": 546,
+          "defects": [
+            {
+              "type": "convexity_defect",
+              "depth": 11.6328125,
+              "location": {
+                "x": 115,
+                "y": 254
+              }
+            },
+            {
+              "type": "convexity_defect",
+              "depth": 9.8984375,
+              "location": {
+                "x": 92,
+                "y": 291
+              }
+            }
+          ]
+        },
+        {
+          "ring_id": 1,
+          "status": "PASS",
+          "circularity": 0.8986659082842885,
+          "center": {
+            "x": 564,
+            "y": 549
+          },
+          "radius": 218,
+          "defects": []
+        }
+      ]
+    },
+    {
+      "filename": "good.png",
+      "timestamp": "2025-10-01T21:30:22.434789",
+      "image_shape": [
+        1100,
+        1130,
+        3
+      ],
+      "rings_detected": 2,
+      "results": [
+        {
+          "ring_id": 0,
+          "status": "PASS",
+          "circularity": 0.8986941016587042,
+          "center": {
+            "x": 564,
+            "y": 549
+          },
+          "radius": 542,
+          "defects": []
+        },
+        {
+          "ring_id": 1,
+          "status": "PASS",
+          "circularity": 0.8986659082842885,
+          "center": {
+            "x": 564,
+            "y": 549
+          },
+          "radius": 218,
+          "defects": []
+        }
+      ]
+    }
+  ]
+}

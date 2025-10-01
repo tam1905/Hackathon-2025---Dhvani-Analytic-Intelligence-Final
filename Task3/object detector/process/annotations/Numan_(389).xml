@@ -1,0 +1,62 @@
+<annotation>
+	<folder>Numan 02</folder>
+	<filename>Numan_(389).jpg</filename>
+	<path>E:\MLPRoject\Numan 02\Numan_(389).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3024</width>
+		<height>4032</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pickup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>85</xmin>
+			<ymin>1558</ymin>
+			<xmax>1800</xmax>
+			<ymax>2438</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2577</xmin>
+			<ymin>1727</ymin>
+			<xmax>3024</xmax>
+			<ymax>2026</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>three wheelers (CNG)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2297</xmin>
+			<ymin>1647</ymin>
+			<xmax>2497</xmax>
+			<ymax>1801</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>rickshaw</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2477</xmin>
+			<ymin>1644</ymin>
+			<xmax>2573</xmax>
+			<ymax>1776</ymax>
+		</bndbox>
+	</object>
+</annotation>

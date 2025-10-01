@@ -1,0 +1,51 @@
+{
+  "filename": "defect3.png",
+  "timestamp": "2025-10-01T21:30:22.286103",
+  "image_shape": [
+    1100,
+    1130,
+    3
+  ],
+  "rings_detected": 2,
+  "results": [
+    {
+      "ring_id": 1,
+      "status": "PASS",
+      "circularity": 0.8986941016587042,
+      "center": {
+        "x": 564,
+        "y": 549
+      },
+      "radius": 542,
+      "defects": []
+    },
+    {
+      "ring_id": 2,
+      "status": "DEFECT",
+      "circularity": 0.871820077242889,
+      "center": {
+        "x": 559,
+        "y": 538
+      },
+      "radius": 227,
+      "defects": [
+        {
+          "type": "convexity_defect",
+          "depth": 10.79296875,
+          "location": {
+            "x": 374,
+            "y": 446
+          }
+        },
+        {
+          "type": "convexity_defect",
+          "depth": 14.22265625,
+          "location": {
+            "x": 397,
+            "y": 413
+          }
+        }
+      ]
+    }
+  ]
+}

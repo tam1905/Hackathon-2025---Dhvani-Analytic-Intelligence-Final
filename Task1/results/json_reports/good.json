@@ -1,0 +1,34 @@
+{
+  "filename": "good.png",
+  "timestamp": "2025-10-01T21:30:22.434789",
+  "image_shape": [
+    1100,
+    1130,
+    3
+  ],
+  "rings_detected": 2,
+  "results": [
+    {
+      "ring_id": 0,
+      "status": "PASS",
+      "circularity": 0.8986941016587042,
+      "center": {
+        "x": 564,
+        "y": 549
+      },
+      "radius": 542,
+      "defects": []
+    },
+    {
+      "ring_id": 1,
+      "status": "PASS",
+      "circularity": 0.8986659082842885,
+      "center": {
+        "x": 564,
+        "y": 549
+      },
+      "radius": 218,
+      "defects": []
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Navid</folder>
+	<filename>Navid_792.jpg</filename>
+	<path>F:\PIAS\Datasets\New\Navid\Navid_792.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>motorbike</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>929</xmin>
+			<ymin>508</ymin>
+			<xmax>1090</xmax>
+			<ymax>749</ymax>
+		</bndbox>
+	</object>
+</annotation>

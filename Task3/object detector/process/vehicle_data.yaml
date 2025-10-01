@@ -1,0 +1,7 @@
+
+train: ./process\images\train
+val: ./process\images\val
+test: ./process\images\test
+
+nc: 4
+names: ['car', 'bus', 'truck', 'motorbike']

@@ -1,0 +1,62 @@
+<annotation>
+	<folder>Dipto 02</folder>
+	<filename>Dipto_802.jpg</filename>
+	<path>C:\Users\ASUS\Desktop\Dipto 02\Dipto_802.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>minivan</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>73</xmin>
+			<ymin>131</ymin>
+			<xmax>681</xmax>
+			<ymax>874</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>three wheelers (CNG)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>838</xmin>
+			<ymin>237</ymin>
+			<xmax>1458</xmax>
+			<ymax>847</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>642</xmin>
+			<ymin>431</ymin>
+			<xmax>751</xmax>
+			<ymax>529</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>rickshaw</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1557</xmin>
+			<ymin>376</ymin>
+			<xmax>1760</xmax>
+			<ymax>541</ymax>
+		</bndbox>
+	</object>
+</annotation>

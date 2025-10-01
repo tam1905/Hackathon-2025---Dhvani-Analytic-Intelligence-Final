@@ -1,0 +1,50 @@
+<annotation>
+	<folder>New folder</folder>
+	<filename>Navid_581.JPG</filename>
+	<path>C:\Users\Mohammad Navid\Desktop\New folder\Navid_581.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3024</width>
+		<height>4032</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>1766</ymin>
+			<xmax>1183</xmax>
+			<ymax>3578</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>rickshaw</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1300</xmin>
+			<ymin>1655</ymin>
+			<xmax>1411</xmax>
+			<ymax>1838</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>rickshaw</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1576</xmin>
+			<ymin>1647</ymin>
+			<xmax>1667</xmax>
+			<ymax>1799</ymax>
+		</bndbox>
+	</object>
+</annotation>

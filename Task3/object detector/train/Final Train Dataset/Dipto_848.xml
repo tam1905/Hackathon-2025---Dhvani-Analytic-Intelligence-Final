@@ -1,0 +1,26 @@
+<annotation>
+	<folder>imagesforannotations04</folder>
+	<filename>Dipto_848.jpg</filename>
+	<path>C:\Users\ASUS\Desktop\imagesforannotations04\Dipto_848.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>motorbike</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>813</xmin>
+			<ymin>646</ymin>
+			<xmax>949</xmax>
+			<ymax>717</ymax>
+		</bndbox>
+	</object>
+</annotation>

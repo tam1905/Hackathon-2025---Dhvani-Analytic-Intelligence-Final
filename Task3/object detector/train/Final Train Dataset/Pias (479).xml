@@ -1,0 +1,26 @@
+<annotation>
+	<folder>New folder (2)</folder>
+	<filename>Pias (479).jpg</filename>
+	<path>C:\Users\Mohammad Navid\Desktop\New folder (2)\Pias (479).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>truck</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>652</xmin>
+			<ymin>218</ymin>
+			<xmax>916</xmax>
+			<ymax>496</ymax>
+		</bndbox>
+	</object>
+</annotation>

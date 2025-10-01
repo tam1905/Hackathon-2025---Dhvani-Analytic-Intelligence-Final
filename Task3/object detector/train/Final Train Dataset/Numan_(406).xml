@@ -1,0 +1,50 @@
+<annotation>
+	<folder>Original Photo</folder>
+	<filename>Numan_(406).jpg</filename>
+	<path>E:\MLPRoject\data\Original Photo\Numan_(406).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1080</width>
+		<height>1920</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>three wheelers (CNG)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>744</xmin>
+			<ymin>973</ymin>
+			<xmax>795</xmax>
+			<ymax>1044</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>793</xmin>
+			<ymin>981</ymin>
+			<xmax>835</xmax>
+			<ymax>1022</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bus</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>790</xmin>
+			<ymin>955</ymin>
+			<xmax>837</xmax>
+			<ymax>985</ymax>
+		</bndbox>
+	</object>
+</annotation>

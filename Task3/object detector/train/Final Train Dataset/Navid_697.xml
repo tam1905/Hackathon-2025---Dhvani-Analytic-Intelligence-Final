@@ -1,0 +1,38 @@
+<annotation>
+	<folder>New folder</folder>
+	<filename>Navid_697.jpg</filename>
+	<path>C:\Users\Mohammad Navid\Desktop\New folder\Navid_697.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>suv</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>507</xmin>
+			<ymin>723</ymin>
+			<xmax>663</xmax>
+			<ymax>885</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bicycle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>220</xmin>
+			<ymin>763</ymin>
+			<xmax>249</xmax>
+			<ymax>831</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Numan 02</folder>
+	<filename>Numan_(376).jpg</filename>
+	<path>E:\MLPRoject\Numan 02\Numan_(376).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3024</width>
+		<height>4032</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bus</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1055</xmin>
+			<ymin>1818</ymin>
+			<xmax>2202</xmax>
+			<ymax>2824</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bus</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2646</xmin>
+			<ymin>2360</ymin>
+			<xmax>2952</xmax>
+			<ymax>2624</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,38 @@
+<annotation>
+	<folder>New folder</folder>
+	<filename>Navid_633.JPG</filename>
+	<path>C:\Users\Mohammad Navid\Desktop\New folder\Navid_633.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4096</width>
+		<height>2304</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bus</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1275</xmin>
+			<ymin>293</ymin>
+			<xmax>2337</xmax>
+			<ymax>1655</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>rickshaw</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2567</xmin>
+			<ymin>605</ymin>
+			<xmax>3871</xmax>
+			<ymax>2085</ymax>
+		</bndbox>
+	</object>
+</annotation>

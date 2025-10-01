@@ -1,0 +1,50 @@
+<annotation>
+	<folder>New folder</folder>
+	<filename>Navid_246.jpg</filename>
+	<path>C:\Users\Mohammad Navid\Desktop\New folder\New folder\Navid_246.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2560</width>
+		<height>1440</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bus</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1749</xmin>
+			<ymin>30</ymin>
+			<xmax>2560</xmax>
+			<ymax>1440</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1621</xmin>
+			<ymin>797</ymin>
+			<xmax>1718</xmax>
+			<ymax>866</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bus</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1506</xmin>
+			<ymin>747</ymin>
+			<xmax>1573</xmax>
+			<ymax>834</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Navid_NEW</folder>
+	<filename>Navid_16.jpg</filename>
+	<path>G:\Our Traffic Project\Final Datasets\Navid_NEW\Navid_16.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>three wheelers (CNG)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>817</xmin>
+			<ymin>426</ymin>
+			<xmax>1098</xmax>
+			<ymax>814</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>minivan</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1125</xmin>
+			<ymin>381</ymin>
+			<xmax>1920</xmax>
+			<ymax>743</ymax>
+		</bndbox>
+	</object>
+</annotation>

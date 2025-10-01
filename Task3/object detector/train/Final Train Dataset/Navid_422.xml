@@ -1,0 +1,62 @@
+<annotation>
+	<folder>New folder</folder>
+	<filename>Navid_422.jpg</filename>
+	<path>C:\Users\Mohammad Navid\Desktop\New folder\Navid_422.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1080</width>
+		<height>1920</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>35</xmin>
+			<ymin>907</ymin>
+			<xmax>644</xmax>
+			<ymax>1451</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>three wheelers (CNG)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>623</xmin>
+			<ymin>888</ymin>
+			<xmax>744</xmax>
+			<ymax>1186</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>motorbike</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>782</xmin>
+			<ymin>918</ymin>
+			<xmax>891</xmax>
+			<ymax>1133</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>motorbike</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>886</xmin>
+			<ymin>937</ymin>
+			<xmax>932</xmax>
+			<ymax>1062</ymax>
+		</bndbox>
+	</object>
+</annotation>

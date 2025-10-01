@@ -1,0 +1,62 @@
+<annotation>
+	<folder>New folder</folder>
+	<filename>Navid_610.JPG</filename>
+	<path>C:\Users\Mohammad Navid\Desktop\New folder\Navid_610.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4096</width>
+		<height>2304</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>three wheelers (CNG)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1267</xmin>
+			<ymin>764</ymin>
+			<xmax>2050</xmax>
+			<ymax>1672</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>rickshaw</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1105</xmin>
+			<ymin>952</ymin>
+			<xmax>1251</xmax>
+			<ymax>1165</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bicycle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>725</xmin>
+			<ymin>1119</ymin>
+			<xmax>905</xmax>
+			<ymax>1446</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>pickup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>4</xmin>
+			<ymin>64</ymin>
+			<xmax>667</xmax>
+			<ymax>1897</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>New folder</folder>
+	<filename>Navid_194.jpg</filename>
+	<path>C:\Users\Mohammad Navid\Desktop\New folder\New folder\Navid_194.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1274</width>
+		<height>617</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>suv</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>307</xmin>
+			<ymin>136</ymin>
+			<xmax>347</xmax>
+			<ymax>173</ymax>
+		</bndbox>
+	</object>
+</annotation>

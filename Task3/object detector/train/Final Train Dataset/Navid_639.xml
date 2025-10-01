@@ -1,0 +1,26 @@
+<annotation>
+	<folder>New folder</folder>
+	<filename>Navid_639.JPG</filename>
+	<path>C:\Users\Mohammad Navid\Desktop\New folder\Navid_639.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3024</width>
+		<height>4032</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>655</xmin>
+			<ymin>2413</ymin>
+			<xmax>1207</xmax>
+			<ymax>2805</ymax>
+		</bndbox>
+	</object>
+</annotation>

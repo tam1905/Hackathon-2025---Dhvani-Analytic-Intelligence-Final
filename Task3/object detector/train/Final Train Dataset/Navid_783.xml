@@ -1,0 +1,62 @@
+<annotation>
+	<folder>Navid</folder>
+	<filename>Navid_783.jpg</filename>
+	<path>F:\PIAS\Datasets\New\Navid\Navid_783.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>three wheelers (CNG)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1390</xmin>
+			<ymin>396</ymin>
+			<xmax>1568</xmax>
+			<ymax>535</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>three wheelers (CNG)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1559</xmin>
+			<ymin>402</ymin>
+			<xmax>1629</xmax>
+			<ymax>519</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>three wheelers (CNG)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1178</xmin>
+			<ymin>394</ymin>
+			<xmax>1258</xmax>
+			<ymax>429</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>rickshaw</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1116</xmin>
+			<ymin>392</ymin>
+			<xmax>1160</xmax>
+			<ymax>430</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,50 @@
+<annotation>
+	<folder>Numan 02</folder>
+	<filename>Numan_(373).jpg</filename>
+	<path>E:\MLPRoject\Numan 02\Numan_(373).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3024</width>
+		<height>4032</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>suv</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>955</xmin>
+			<ymin>1953</ymin>
+			<xmax>1587</xmax>
+			<ymax>2276</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>motorbike</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1620</xmin>
+			<ymin>2045</ymin>
+			<xmax>1966</xmax>
+			<ymax>2528</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>suv</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1982</xmin>
+			<ymin>2012</ymin>
+			<xmax>2399</xmax>
+			<ymax>2268</ymax>
+		</bndbox>
+	</object>
+</annotation>

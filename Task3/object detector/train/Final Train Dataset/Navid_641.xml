@@ -1,0 +1,38 @@
+<annotation>
+	<folder>New folder</folder>
+	<filename>Navid_641.JPG</filename>
+	<path>C:\Users\Mohammad Navid\Desktop\New folder\Navid_641.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4096</width>
+		<height>2304</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>three wheelers (CNG)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2471</xmin>
+			<ymin>1193</ymin>
+			<xmax>3808</xmax>
+			<ymax>1989</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>suv</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>1214</ymin>
+			<xmax>675</xmax>
+			<ymax>1614</ymax>
+		</bndbox>
+	</object>
+</annotation>

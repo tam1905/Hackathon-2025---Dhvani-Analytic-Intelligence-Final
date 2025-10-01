@@ -1,0 +1,38 @@
+<annotation>
+	<folder>data</folder>
+	<filename>Pias (411).jpg</filename>
+	<path>D:\Datasets\New\data\Pias (411).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bus</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>653</xmin>
+			<ymin>311</ymin>
+			<xmax>763</xmax>
+			<ymax>437</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>truck</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>596</xmin>
+			<ymin>353</ymin>
+			<xmax>635</xmax>
+			<ymax>412</ymax>
+		</bndbox>
+	</object>
+</annotation>
