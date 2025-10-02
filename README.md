@@ -11,6 +11,6 @@ All code is modular, well-commented, and follows **PEP8** guidelines.
 
 ## Folder Structure
 
-- **Task One – Defect Detection**: Detect and classify flashes and cut marks in circular objects using Canny edge detector and image processing.  
-- **Task Two – Dynamical System Simulation**: Simulate and plot the Lorenz system (3D dynamical path) using numerical methods (RK4).  
-- **Task Three – Vehicle Detection and Classification**: Train an object detector to identify and classify vehicles (cars, buses, motorbikes) from annotated datasets.  
+- **Task 1 – Defect Detection**: Detect and classify flashes and cut marks in circular objects using Canny edge detector and image processing.  
+- **Task 2 – Dynamical System Simulation**: Simulate and plot the Lorenz system (3D dynamical path) using numerical methods (RK4).  
+- **Task 3 – Vehicle Detection and Classification**: Train an object detector to identify and classify vehicles (cars, buses, motorbikes) from annotated datasets.  
